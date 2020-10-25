@@ -1,4 +1,4 @@
-package com.upgrad.calculator;
+package com.upgrad.Calculator;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

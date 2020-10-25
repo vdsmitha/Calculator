@@ -1,4 +1,4 @@
-package com.upgrad.calculator.services;
+package com.upgrad.Calculator.services;
 import org.springframework.stereotype.Component;
 
 @Component

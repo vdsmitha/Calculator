@@ -1,6 +1,6 @@
-package com.upgrad.calculator;
+package com.upgrad.Calculator;
 
-import com.upgrad.calculator.services.MathService;
+import com.upgrad.Calculator.services.MathService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;

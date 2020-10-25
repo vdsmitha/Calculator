@@ -56,15 +56,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.upgrad.calculator.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.Calculator.Main" />
       <module name="Calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.upgrad.calculator.*" />
+          <option name="PATTERN" value="com.upgrad.Calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603650251447</updated>
       <workItem from="1603650253579" duration="66000" />
-      <workItem from="1603650583091" duration="1816000" />
+      <workItem from="1603650583091" duration="2129000" />
     </task>
     <servers />
   </component>
@@ -126,22 +127,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603651650910" />
-    <state width="1306" height="388" key="GridCell.Tab.0.bottom" timestamp="1603652428254">
+    <state width="1306" height="388" key="GridCell.Tab.0.bottom" timestamp="1603652450532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="388" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603652428254" />
-    <state width="1306" height="388" key="GridCell.Tab.0.center" timestamp="1603652428254">
+    <state width="1306" height="388" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603652450532" />
+    <state width="1306" height="388" key="GridCell.Tab.0.center" timestamp="1603652450532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="388" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603652428254" />
-    <state width="1306" height="388" key="GridCell.Tab.0.left" timestamp="1603652428254">
+    <state width="1306" height="388" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603652450532" />
+    <state width="1306" height="388" key="GridCell.Tab.0.left" timestamp="1603652450532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="388" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603652428254" />
-    <state width="1306" height="388" key="GridCell.Tab.0.right" timestamp="1603652428254">
+    <state width="1306" height="388" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603652450532" />
+    <state width="1306" height="388" key="GridCell.Tab.0.right" timestamp="1603652450532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="388" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603652428254" />
+    <state width="1306" height="388" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603652450532" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1603650632864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -151,9 +152,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/upgrad/calculator/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/upgrad/Calculator/Main.java</url>
           <line>10</line>
-          <properties class="com.upgrad.calculator.Main" method="main">
+          <properties class="com.upgrad.Calculator.Main" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
